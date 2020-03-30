@@ -1,0 +1,12 @@
+{
+    "name": "SASecuencias",
+    "version": "1.0.0",
+    "description": "Proyecto para creacion de secuencias ",
+    "main": "index.js",
+    "repository": "git@github.com:devosfernando/SASecuencias.git",
+    "author": "Devosfernando",
+    "license": "OSL-3.0",
+    "dependencies": {
+        "mermaid": "^8.4.8"
+    }
+}
